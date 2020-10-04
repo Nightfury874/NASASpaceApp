@@ -9,7 +9,7 @@ class Homescreen extends StatefulWidget {
   @override
   _HomeScreenState createState() => _HomeScreenState();
 }
-
+//By Karan Azad and Nihar
 class _HomeScreenState extends State<Homescreen> {
   File pickedImage;
   var imageFile;
