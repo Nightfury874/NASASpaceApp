@@ -5,8 +5,11 @@ NASA SPACECHALLENGE 2020
 
 ## Screenshots of the App
 <img src="images/backg.jpeg" height="500">
-### Click on the top right to import an image either from camera or internal storage
+## Click on the top right to import an image either from camera or internal storage
 <img src="images/11.jpeg" height="500">
+## Image recognized as tree
 <img src="images/12.jpeg" height="500">
+## Results shown
 <img src="images/13.jpeg" height="500">
+## Not a tree
 <img src="images/14.jpeg" height="500">
