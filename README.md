@@ -14,5 +14,5 @@ NASA SPACECHALLENGE 2020.
 <img src="images/12.jpeg" height="500">
 ## Results shown
 <img src="images/13.jpeg" height="500">
-## Not a tree
+## Not a tree,
 <img src="images/14.jpeg" height="500">
